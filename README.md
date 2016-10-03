@@ -1,2 +1,2 @@
-#[Data Science Part Time Course Page](http://ihansel.github.io/SYD_DAT_4/)
+#[Data Science Part Time Course Page](http://alasdaird.github.io/SYD_DAT_6/)
 ## Sydney - General Asembly
