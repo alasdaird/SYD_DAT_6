@@ -13,6 +13,11 @@ ruby RUBY_VERSION
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima"
+gem "slate"
+gem "athena"
+# gem "white-paper"
+# gem "thinny"
+# gem "beautiful-jekyll"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
@@ -22,3 +27,9 @@ gem "github-pages", group: :jekyll_plugins
 # group :jekyll_plugins do
 #   gem "jekyll-github-metadata", "~> 1.0"
 # end
+
+
+# added this code to allow updates to be applied smoothly
+# http://jekyllrb.com/docs/github-pages/#project-page-url-structure
+# ```ruby source 'https://rubygems.org' require 'json' require 'open-uri' versions = JSON.parse(open('https://pages.github.com/versions.json').read) gem 'github-pages', versions['github-pages'] ```
+# `ruby source 'https://rubygems.org' require 'json' require 'open-uri' versions = JSON.parse(open('https://pages.github.com/versions.json').read) gem 'github-pages', versions['github-pages']`
