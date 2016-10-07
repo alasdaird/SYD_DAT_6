@@ -1,5 +1,5 @@
 
-# Course Page
+# Data Science Part Time Course - SYD DAT 6
 
 ![ga-logo](https://raw.githubusercontent.com/alasdaird/SYD_DAT_6/8c708e1602f5424e59a13df79344d8ee114d042b/images/ga-logo.png)
 
