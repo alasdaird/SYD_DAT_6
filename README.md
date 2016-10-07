@@ -30,9 +30,6 @@
 |9  | 05/12: Communication |  07/12: Neural Networks & Deep Learning |
 |10 | 12/12: Course Review & Project Presentations |  14/12: Project Presentations |
 
-[test](#test)
-
-# test
 
 ## Pre-Work
 
