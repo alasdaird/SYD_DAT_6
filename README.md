@@ -63,7 +63,7 @@ You're also more than welcome to do the following if you're keen to get extra ad
 ## Class 1: Introduction
 
 - Slides
-- [Lab](https://github.com/alasdaird/SYD_DAT_6/tree/master/labs/Week%201)
+- [Lab](/labs/Week1)
 - Introduction to General Assembly and the Data Science Part Time course
 - 
 - Course overview: our philosophy and expectations
