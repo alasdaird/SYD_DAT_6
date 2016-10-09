@@ -1,7 +1,7 @@
 
 # Data Science Part Time Course - SYD DAT 6
 
-![ga-logo](https://raw.githubusercontent.com/alasdaird/SYD_DAT_6/8c708e1602f5424e59a13df79344d8ee114d042b/images/ga-logo.png)
+![ga-logo](/images/ga-logo.png)
 
 **Instructor:** Alasdair Douglas
 
@@ -9,7 +9,7 @@
 
 **Location:** Level M, 56-58 York St Sydney NSW 2000
 
-![ga-location](https://raw.githubusercontent.com/alasdaird/SYD_DAT_6/8c708e1602f5424e59a13df79344d8ee114d042b/images/ga-location.png)
+![ga-location](/images/ga-location.png)
 
 **Dates:** 10/10/2016 - 14/12/2016
 
@@ -65,7 +65,6 @@ You're also more than welcome to do the following if you're keen to get extra ad
 - Slides
 - [Lab](/labs/Week%201)
 - Introduction to General Assembly and the Data Science Part Time course
-- 
 - Course overview: our philosophy and expectations
 - Tools: check for proper setup of Git, Anaconda, overview of Slack
 
