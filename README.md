@@ -42,6 +42,7 @@
 ## Resources
 
 [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
+[Gihub good resources for learning git](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 ## Readings
 
@@ -62,8 +63,9 @@ You're also more than welcome to do the following if you're keen to get extra ad
 ## Class 1: Introduction
 
 - Slides
-- Lab
-- Introduction to General Assembly
+- [Lab](https://github.com/alasdaird/SYD_DAT_6/tree/master/labs/Week%201)
+- Introduction to General Assembly and the Data Science Part Time course
+- 
 - Course overview: our philosophy and expectations
 - Tools: check for proper setup of Git, Anaconda, overview of Slack
 
