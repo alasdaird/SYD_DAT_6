@@ -74,6 +74,7 @@ You're also more than welcome to do the following if you're keen to get extra ad
 - Resolve any installation issues before next class.
 - Make sure you have a github profile and have forked this repo "SYD_DAT_6" 
 - Clone the fork you created on your github profile to your computer
+- Complete the brief skill survey after Lesson 1 https://goo.gl/forms/sCot5Y4CfuO1Oacg2
 
 **Optional:**
 
