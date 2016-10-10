@@ -62,7 +62,7 @@ You're also more than welcome to do the following if you're keen to get extra ad
 
 ## Class 1: Introduction
 
-- Slides
+- [Slides](/slides/Data Science Week 1 - Monday 10 October - Intro.pdf)
 - [Lab](/labs/Week%201)
 - Introduction to General Assembly and the Data Science Part Time course
 - Course overview: our philosophy and expectations
@@ -72,8 +72,8 @@ You're also more than welcome to do the following if you're keen to get extra ad
 **Homework:**
 
 - Resolve any installation issues before next class.
-- Make sure you have a github profile and created a repo called "SYD_DAT_4"
-- Clone the class repo (this one!)
+- Make sure you have a github profile and have forked this repo "SYD_DAT_6" 
+- Clone the fork you created on your github profile to your computer
 
 **Optional:**
 
