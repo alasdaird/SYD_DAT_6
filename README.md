@@ -66,6 +66,7 @@ You're also more than welcome to do the following if you're keen to get extra ad
 - [Lab](/labs/Week%201)
 - Introduction to General Assembly and the Data Science Part Time course
 - Course overview: our philosophy and expectations
+- Agree on a way of working
 - Tools: check for proper setup of Git, Anaconda, overview of Slack
 
 **Homework:**
