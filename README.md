@@ -41,8 +41,8 @@
 
 ## Resources
 
-[PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
-[Gihub good resources for learning git](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
+- [PEP 8 - Style Guide for Python](http://www.python.org/dev/peps/pep-0008)
+- [Gihub good resources for learning git](https://help.github.com/articles/good-resources-for-learning-git-and-github/)
 
 ## Readings
 
