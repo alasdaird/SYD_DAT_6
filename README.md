@@ -80,3 +80,22 @@ You're also more than welcome to do the following if you're keen to get extra ad
 
 - Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) for a useful look at the different types of data scientists.
 - Read about [Markdown](http://daringfireball.net/projects/markdown/syntax) Techniques and refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+
+## Class 2: Data science basics and Git
+
+- Slides
+- [Lab](/labs/Week%201)
+- What is data science
+- What does a Data Scientist need to succeed
+- How does a data science project flow
+- What is Git
+- Using Git bash 
+- Using Git for version control and collaboration
+- Using the Pandas package for data manipulation in Python
+
+**Homework:**
+
+- Homework1.ipynb which is located in the homework folder. Due Friday the 21st of October
+- Finish reading the first two chapters of an [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
