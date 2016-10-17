@@ -20,7 +20,7 @@
 |week| **Monday** | **Wednesday** |
 |---|----------|-------------|
 |1  | 10/10: [Introduction](#lesson-1-introduction) |  12/10: [Basics of Data Science with Python and Git](#lesson-2-data-science-basics-and-git) |
-|2  | 17/10: [Data Visualisation](#lesson-3-data-visualisation) |  19/10: [Linear Regression0(#lesson-4-linear-regression) |
+|2  | 17/10: [Data Visualisation](#lesson-3-data-visualisation) |  19/10: [Linear Regression](#lesson-4-linear-regression) |
 |3  | 24/10: Logistic Regression |  26/10: Model Evaluation |
 |4  | 31/10: Regularisation & Dimensionality Reduction |  02/11: Clustering |
 |5  | 07/11: Decision Trees |  09/11: Random Forest & Ensembling |
