@@ -85,7 +85,7 @@ You're also more than welcome to do the following if you're keen to get extra ad
 
 ## Class 2: Data science basics and Git
 
-- Slides
+- [Slides](/slides/Data Science Week 1 - Wednesday 12 October.pdf)
 - [Lab](/labs/Week%201)
 - What is data science
 - What does a Data Scientist need to succeed
@@ -99,3 +99,21 @@ You're also more than welcome to do the following if you're keen to get extra ad
 
 - Homework1.ipynb which is located in the homework folder. Due Friday the 21st of October
 - Finish reading the first two chapters of an [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
+
+
+## Class 2: Data science basics and Git
+
+- [Slides](/slides/Data Science Week 2 - Monday 17 October - Data Visualisation.pdf)
+- [Lab](/labs/Week%202)
+- What is data visualisation
+- Why we visualise data
+- How do we visualise data
+- Philosophies on visualising data
+- Git sync with upstream, make changes, push and make pull request
+- Git lab 
+- Visualisation Lab
+
+**Homework:**
+
+- Homework1.ipynb which is located in the homework folder. Due Friday the 21st of October
+- Reading chapter 3 of an [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) on Linear Regression
