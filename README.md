@@ -19,8 +19,8 @@
 
 |week| **Monday** | **Wednesday** |
 |---|----------|-------------|
-|1  | 10/10: [Introduction](#class-1-introduction) |  12/10: Basics of Data Science with Python and Git |
-|2  | 17/10: Data Visualisation |  19/10: Linear Regression |
+|1  | 10/10: [Introduction](#lesson-1-introduction) |  12/10: [Basics of Data Science with Python and Git](#lesson-2-data-science-basics-and-git) |
+|2  | 17/10: [Data Visualisation](#lesson-3-data-visualisation) |  19/10: [Linear Regression](#lesson-4-linear-regression) |
 |3  | 24/10: Logistic Regression |  26/10: Model Evaluation |
 |4  | 31/10: Regularisation & Dimensionality Reduction |  02/11: Clustering |
 |5  | 07/11: Decision Trees |  09/11: Random Forest & Ensembling |
@@ -60,7 +60,7 @@ You're also more than welcome to do the following if you're keen to get extra ad
 
 ---
 
-## Class 1: Introduction
+## Lesson 1: Introduction
 
 - [Slides](/slides/Data Science Week 1 - Monday 10 October - Intro.pdf)
 - [Lab](/labs/Week%201)
@@ -81,9 +81,9 @@ You're also more than welcome to do the following if you're keen to get extra ad
 - Read [Analyzing the Analyzers](http://cdn.oreillystatic.com/oreilly/radarreport/0636920029014/Analyzing_the_Analyzers.pdf) for a useful look at the different types of data scientists.
 - Read about [Markdown](http://daringfireball.net/projects/markdown/syntax) Techniques and refer to this [cheat sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
+---
 
-
-## Class 2: Data science basics and Git
+## Lesson 2: Data science basics and Git
 
 - [Slides](/slides/Data Science Week 1 - Wednesday 12 October.pdf)
 - [Lab](/labs/Week%201)
@@ -101,7 +101,9 @@ You're also more than welcome to do the following if you're keen to get extra ad
 - Finish reading the first two chapters of an [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf)
 
 
-## Class 2: Data science basics and Git
+---
+
+## Lesson 3: Data Visualisation
 
 - [Slides](/slides/Data Science Week 2 - Monday 17 October - Data Visualisation.pdf)
 - [Lab](/labs/Week%202)
@@ -117,3 +119,21 @@ You're also more than welcome to do the following if you're keen to get extra ad
 
 - Homework1.ipynb which is located in the homework folder. Due Friday the 21st of October
 - Reading chapter 3 of an [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) on Linear Regression
+
+---
+
+## Lesson 4: Linear Regression
+
+- [Slides](/slides/)
+- [Lab](/labs/Week%202)
+- Understand the differences between supervised and unsupervised learning
+- Describe the process of building a linear regression model
+- Build a linear regression model and interpret the output
+
+
+**Homework:**
+
+- Homework1.ipynb which is located in the homework folder. Due Friday the 21st of October
+- Reading chapter 4 of an [Introduction to Statistical Learning](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20Fourth%20Printing.pdf) on Classification
+
+---
