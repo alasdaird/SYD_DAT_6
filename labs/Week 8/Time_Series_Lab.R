@@ -10,8 +10,10 @@ library(ggplot2)
 library(forecast)
 library(fpp) # get a dataset to work with from 'fpp' - datasets from forecasting principles and practice
 
+View(elecequip)
 
 # Explore elecequip dataset -----------------------------------------------
+?elecequip
 plot(elecequip)
 head(elecequip)
 class(elecequip)  # ts class
@@ -34,10 +36,9 @@ lines(fit$time.series[,2], col="red", ylab="Trend")
 
 
 
-
-
 # Apply Exponential Smoothing to Oil Data ---------------------------------
 plot(oil)
+?oil
 # Exponential smoothing model - with different Alpha smoothing and H perio parameter settings
 fit1 <- ses(oil, alpha=0.2, initial="simple", h=3) # alpha=smppthing parameter  h=periods
 fit2 <- ses(oil, alpha=0.6, initial="simple", h=3)
@@ -85,11 +86,19 @@ plot(log(a10))  # variance (as well as the scale) reduces for the log values
 
 # for exponential models, differencing ones gives you a striaght line, differencing twice, straight
 plot(stl(a10, s.window=12))
+plot(stl(log(a10), s.window=12))
+
 plot(diff(log(a10), s.window=12))
+
+
+WWWusage
+diff(WWWusage)
+
 
 
 # ARIMA model on diabetes dataset -----------------------------------------
 # ARIMA Model
+?WWWusage
 tsdisplay(diff(WWWusage), main="")
 fit <- Arima(WWWusage, order=c(3,1,1))
 summary(fit)
