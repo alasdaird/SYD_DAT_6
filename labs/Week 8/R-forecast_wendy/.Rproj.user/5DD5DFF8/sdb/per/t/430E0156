@@ -1,0 +1,25 @@
+{
+    "contents" : "",
+    "created" : 1480322860479.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "430E0156",
+    "lastKnownWriteTime" : 6066188612560498736,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "90qqzf8e15",
+        "caption" : "elecequip",
+        "contentUrl" : "grid_resource/gridviewer.html?env=package%3Afpp&obj=elecequip&cache_key=90qqzf8e15",
+        "displayedObservations" : "191",
+        "environment" : "package:fpp",
+        "object" : "elecequip",
+        "totalObservations" : "191",
+        "variables" : "1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
