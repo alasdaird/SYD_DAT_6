@@ -37,7 +37,10 @@ lines(fit$time.series[,2], col="red", ylab="Trend")
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
+=======
+>>>>>>> upstream/master
 =======
 >>>>>>> upstream/master
 # Apply Exponential Smoothing to Oil Data ---------------------------------
