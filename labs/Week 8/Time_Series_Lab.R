@@ -11,13 +11,19 @@ library(forecast)
 library(fpp) # get a dataset to work with from 'fpp' - datasets from forecasting principles and practice
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 # Explore elecequip dataset -----------------------------------------------
 =======
+=======
+>>>>>>> upstream/master
 View(elecequip)
 
 # Explore elecequip dataset -----------------------------------------------
 ?elecequip
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 plot(elecequip)
 head(elecequip)
@@ -42,10 +48,16 @@ lines(fit$time.series[,2], col="red", ylab="Trend")
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 
 # Apply Exponential Smoothing to Oil Data ---------------------------------
 plot(oil)
+=======
+# Apply Exponential Smoothing to Oil Data ---------------------------------
+plot(oil)
+?oil
+>>>>>>> upstream/master
 =======
 # Apply Exponential Smoothing to Oil Data ---------------------------------
 plot(oil)
@@ -99,12 +111,15 @@ plot(log(a10))  # variance (as well as the scale) reduces for the log values
 # for exponential models, differencing ones gives you a striaght line, differencing twice, straight
 plot(stl(a10, s.window=12))
 <<<<<<< HEAD
+<<<<<<< HEAD
 plot(diff(log(a10), s.window=12))
 
 
 # ARIMA model on diabetes dataset -----------------------------------------
 # ARIMA Model
 =======
+=======
+>>>>>>> upstream/master
 plot(stl(log(a10), s.window=12))
 
 plot(diff(log(a10), s.window=12))
@@ -118,6 +133,9 @@ diff(WWWusage)
 # ARIMA model on diabetes dataset -----------------------------------------
 # ARIMA Model
 ?WWWusage
+<<<<<<< HEAD
+>>>>>>> upstream/master
+=======
 >>>>>>> upstream/master
 tsdisplay(diff(WWWusage), main="")
 fit <- Arima(WWWusage, order=c(3,1,1))
